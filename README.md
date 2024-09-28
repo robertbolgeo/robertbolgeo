@@ -10,7 +10,6 @@ I'm working on an NPO called Pride Farm to provide tech solutions to help people
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=robertbolgeo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robertbolgeo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbolgeo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=robertbolgeo&icon=10&color=2)](https://visitcount.itsvg.in)
